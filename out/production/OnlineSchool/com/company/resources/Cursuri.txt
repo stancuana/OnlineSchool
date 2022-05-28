@@ -1,0 +1,38 @@
+1,Hawaiian Tropic,Konklab
+2,J-TAN,Ventosanzap
+3,Diovan,Job
+4,oxycodone hydrochloride,Solarbreeze
+5,MORPHINE SULFATE,Quo Lux
+6,epirubicin hydrochloride,Opela
+7,Tramadol Hydrochloride,Flexidy
+8,Treatment Set TS329802,Transcof
+9,OPANA,Matsoft
+10,bareMinerals,Kanlam
+11,GABAPENTIN,Bitwolf
+12,Asthma Rx,Sonair
+13,TORSEMIDE,Tempsoft
+14,Degree,Sonsing
+15,Diclofenac Sodium,Veribet
+16,AMBROSIA TENUIFOLIA POLLEN,Bitchip
+17,Aspirin,Rank
+18,Sodium Bicarbonate,Subin
+19,Nicotine,Veribet
+20,LIFT LUMIERE,Home Ing
+21,Equate DayTime NiteTime Severe,Tampflex
+22,EQUUS CABALLUS SKIN,Sub-Ex
+23,LidoCream 5,Voyatouch
+24,bareMinerals,Voltsillam
+25,Flu Rescue,Opela
+26,Depo-Estradiol,Pannier
+27,Ketorolac Tromethamine,Transcof
+28,Chest Rub,Trippledex
+29,Instant Hand Sanitizer - Clear,Y-find
+30,Fluoride,Voyatouch
+31,mmm,mmmm
+32,HHHH,KKKK
+33,HHHH,KKKK
+34,HHHH,KKKK
+35,HHHH,KKKK
+36,HHHH,KKKK
+37,HHHH,KKKK
+38,HHHH,KKKK
